@@ -30,6 +30,8 @@
  * SOFTWARE.
  */
 
+#import <CoreData/NSManagedObjectContext.h>
+
 @interface NSManagedObjectContext (EasyFetch)
 #pragma mark -
 #pragma mark Fetch all unsorted

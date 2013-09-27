@@ -31,6 +31,7 @@
  */
 
 #import "NSManagedObjectContext-EasyFetch.h"
+#import <CoreData/CoreData.h>
 
 @implementation NSManagedObjectContext (EasyFetch)
 
